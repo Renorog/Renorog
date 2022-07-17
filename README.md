@@ -1,6 +1,6 @@
 ### Olá sou o Renor O Guimarães 👋
-
--  Estou aprendendo Java e Cloud Computing
+- Tenho o objetivo de me tornar um Desenvolvedor Full Stack
+-  Estou aprendendo Java e Cloud Computing no momento
 -  Pronomes: Ele/Dele
 
   
