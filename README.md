@@ -1,7 +1,6 @@
 ### Olá sou o Renor O Guimarães 👋
 - Tenho o objetivo de me tornar um Desenvolvedor Full Stack
 -  Estou aprendendo Java e Cloud Computing no momento
--  Pronomes: Ele/Dele
 
   
 <div align="center">
