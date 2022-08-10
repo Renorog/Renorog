@@ -1,6 +1,6 @@
 ### Olá sou o Renor O Guimarães 👋
 - Tenho o objetivo de me tornar um Desenvolvedor Full Stack
--  Estou aprendendo Java e Cloud Computing no momento
+-  Estou aprendendo C# e Cloud Computing no momento
 
   
 <div align="center">
