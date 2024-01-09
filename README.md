@@ -1,6 +1,6 @@
 ### Olá sou o Renor O Guimarães 👋
 - Tenho o objetivo de me tornar um Desenvolvedor Full Stack
--  Estou estudando na T.Expert o curso de Full Stack Java
+
 
  <div align="center">
   <a href="https://github.com/renorog">
